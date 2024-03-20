@@ -1,0 +1,15 @@
+.games-title {
+  font-family: var(--font-family);
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 0%;
+  color: #fff;
+  padding: 32px 0 12px 0;
+}
+.games-subtitle {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 0%;
+  color: #fff;
+}
